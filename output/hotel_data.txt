@@ -1,0 +1,7 @@
+Rooms:
+102|Single|0
+103|Double|1
+Customers:
+1|roshan
+Bookings:
+102|1|1

@@ -1,0 +1,8 @@
+Books:
+1|TOC|ROOPA|1
+2|OS|PRABHAS|1
+1|CNK|CNK|1
+Members:
+1|roopa
+2|roshan
+Loans:
